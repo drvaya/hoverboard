@@ -476,37 +476,24 @@ const galleryActions = {
     dispatch({
       type: FETCH_GALLERY,
     });
-    const data = fetch('../../docs/default-firebase-data.json');
-    // return firebase.firestore().collection('gallery')
-    //     .get()
-    //     .then((snaps) => {
-    //       const list = snaps.docs
-    //           .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
+  
+    return firebase.firestore().collection('gallery')
+        .get()
+        .then((snaps) => {
+          const list = snaps.docs
+              .map((snap) => Object.assign({}, snap.data(), { id: snap.id }));
 
-    //       dispatch({
-    //         type: FETCH_GALLERY_SUCCESS,
-    //         payload: { list },
-    //       });
-    //     })
-    //     .catch((error) => {
-    //       dispatch({
-    //         type: FETCH_GALLERY_FAILURE,
-    //         payload: { error },
-    //       });
-    //     });
-    return data.then((resposne) => resposne.json()).then((snaps) => {
-      const list = snaps.gallery.map((snap) => Object.assign({}, { url: snap }));
-      dispatch({
-        type: FETCH_GALLERY_SUCCESS,
-        payload: { list },
-      });
-    })
-      .catch((error) => {
-        dispatch({
-          type: FETCH_GALLERY_FAILURE,
-          payload: { error },
+          dispatch({
+            type: FETCH_GALLERY_SUCCESS,
+            payload: { list },
+          });
+        })
+        .catch((error) => {
+          dispatch({
+            type: FETCH_GALLERY_FAILURE,
+            payload: { error },
+          });
         });
-      });
   },
 };
 

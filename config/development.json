@@ -1,16 +1,15 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-dev.firebaseapp.com/",
-  "analytics": "UA-43643469-8",
+  "url": "https://mumbai-devfest19.firebaseapp.com/",
   "prefix": "/",
   "firebase": {
-    "appId": "",
-    "apiKey": "AIzaSyBu9LI-hY4NfUOPJJKuV3BfQm7edLr2-aE",
-    "authDomain": "hoverboard-dev.firebaseapp.com",
-    "databaseURL": "https://hoverboard-dev.firebaseio.com",
-    "projectId": "hoverboard-dev",
-    "storageBucket": "hoverboard-dev.appspot.com",
-    "messagingSenderId": "1083195713896"
+    "apiKey": "AIzaSyBIIXjg1lLHhun2d3E3Or8gpBW1aN5h94s",
+    "authDomain": "mumbai-devfest19.firebaseapp.com",
+    "databaseURL": "https://mumbai-devfest19.firebaseio.com",
+    "projectId": "mumbai-devfest19",
+    "storageBucket": "mumbai-devfest19.appspot.com",
+    "messagingSenderId": "49300679173",
+    "appId": "1:49300679173:web:81526180b055e53c"
   },
   "googleMapApiKey": ""
 }

@@ -2,8 +2,8 @@
   "organizer": {
     "name": "GDGMAD & GCDC Cloud",
     "twitter": "gdgmad",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "blog": "",
+    "url": "gdgmad.com"
   },
   "startDate": "2019-09-21T09:00:00+05:30",
   "endDate": "2019-09-21T18:00:00+05:30",
@@ -100,7 +100,7 @@
     },
     "cod": {
       "title": "Code Of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "metaDescription": "Learn more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
       },
@@ -108,21 +108,21 @@
     }
   },
   "location": {
-    "label": "Location",
-    "name": "TBD",
-    "city": "Mumbai",
+    "label": "ISDI",
+    "name": "ISDI",
+    "city": "ISDI, Mumbai",
     "short": "Mumbai, India",
-    "address": "TBD",
+    "address": "One India Bulls Centre, Tower 2A 6th Floor, Saidham Nagar, Parel, Mumbai, Maharashtra 400013, India",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 19.007093,
+      "longitude": 72.833302,
       "zoom": 5
     },
     "mapCenter": {
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": ""
   },
   "mediaQueries": {
     "xs": {
@@ -166,7 +166,7 @@
       }
     ]
   },
-  "mailto": "madmeetup.mail@gmail.com",
+  "mailto": "hello@gdgmad.com",
   "signInProviders": {
     "providersData": [
       {
