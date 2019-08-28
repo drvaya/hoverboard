@@ -47,8 +47,8 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
+          "url": "/team",
+          "newTab": false
         }
       ]
     },
@@ -95,7 +95,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "30+"
+        "number": "20+"
       },
       "tracks": {
         "label": "Tracks",
