@@ -2146,6 +2146,44 @@
           ],
           "order": 8,
           "title": "Presentation & Sponsors"
+        },
+        {
+          "name": "Nirav Kothari",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mumbai-devfest19.appspot.com/o/team%2FIMG_1920%20-%20Nirav%20Kothari.webp?alt=media&token=dddf9b9b-03d3-480d-b1eb-11161d32dcb3",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/iNiravKothari",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nirav-kothari-544a1221",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 9,
+          "title": "Presentation & Sponsors"
+        },
+        {
+          "name": "Nikhil Thakkar",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/mumbai-devfest19.appspot.com/o/team%2F0.jpeg?alt=media&token=7239055d-4e52-449a-ad6d-2b81b77c82f5",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/_nikhi1",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/nikhil-thakkar-4b14b722/",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 10,
+          "title": "Presentation & Sponsors"
         }
       ],
       "title": "Core Team"
