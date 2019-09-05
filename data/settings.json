@@ -115,11 +115,11 @@
     "pointer": {
       "latitude": 19.007093,
       "longitude": 72.833302,
-      "zoom": 5
+      "zoom": 6
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 19.007093,
+      "longitude": 72.833302
     },
     "description": ""
   },
