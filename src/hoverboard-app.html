@@ -92,7 +92,10 @@
       }
 
       .toolbar-logo {
-        --iron-image-height: 32px;
+        width: 150px;
+        height: 32px;
+        background-color: var(--default-primary-color);
+        -webkit-mask: url(/images/logo-monochrome.svg) no-repeat;
       }
 
       app-header-layout {
@@ -144,7 +147,7 @@
 
       <app-drawer id="drawer" slot="drawer" opened="[[ui.isDrawerOpened]]" swipe-open>
         <app-toolbar layout vertical start>
-          <plastic-image class="toolbar-logo" srcset="/images/logo-monochrome.svg" alt="{$ title $}"></plastic-image>
+          <a class="toolbar-logo" on-tap="closeDrawer" href="/" alt="{$ title $}"></a>
           <h2 class="dates">{$ dates $}</h2>
           <h3 class="location">{$ location.short $}</h3>
         </app-toolbar>

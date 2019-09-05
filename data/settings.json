@@ -44,7 +44,7 @@
       "description": "Be a hero. Be a GDG!",
       "background": {
         "color": "#673ab7",
-        "image": "/images/backgrounds/group-photo.webp"
+        "image": "/images/backgrounds/background.jpg"
       },
       "fontColor": "#FFF"
     },
