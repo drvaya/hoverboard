@@ -476,7 +476,7 @@ const galleryActions = {
     dispatch({
       type: FETCH_GALLERY,
     });
-  
+    
     return firebase.firestore().collection('gallery')
         .get()
         .then((snaps) => {
