@@ -1,7 +1,6 @@
 <link rel="import" href="../../bower_components/polymer/polymer-element.html">
 
 <link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
-<link rel="import" href="../../bower_components/good-map/good-map.html">
 
 <link rel="import" href="../mixins/redux-mixin.html">
 <link rel="import" href="./hoverboard-icons.html">
@@ -32,7 +31,9 @@
           width: 48px;
           height: 48px;
           color: var(--text-primary-color);
-        };
+        }
+
+        ;
       }
 
       @media (min-width: 640px) {
@@ -55,20 +56,34 @@
         .address {
           font-size: 16px;
         }
+
+        .responsive {
+          width: 100%;
+          height: auto;
+        }
+
+        .attribution {
+          display: flex;
+          flex: 1;
+          flex-direction: row;
+          justify-content: flex-end;
+          align-content: space-around;
+          margin-right: 10px;
+        }
       }
-
     </style>
-
     <template is="dom-if" if="[[viewport.isTabletPlus]]">
-      <good-map
-        id="map"
-        api-key="{$ googleMapApiKey $}"
-        latitude="{$ location.mapCenter.latitude $}"
-        longitude="{$ location.mapCenter.longitude $}"
-        zoom="{$ location.pointer.zoom $}"
-      ></good-map>
-    </template>
 
+      <img class="responsive" width="1280"
+        src="https://api.mapbox.com/v4/mapbox.streets/pin-l-town-hall+285A98(72.88261,19.07283)/72.88261,19.07283,15/1280x300.png256?access_token=pk.eyJ1IjoibmlraGlsLXRoYWtrYXIiLCJhIjoiY2swYjNxdnE4MG85NTNtcGU3ZTU3MG52ZiJ9._zAAkzkb2GH0HaE2ZieHPQ"
+        alt="Mapbox Map of 72.88261, 19.07283">
+      <div class="attribution">
+        © <a href='https://www.mapbox.com/map-feedback/' target="_blank">Mapbox</a>
+        &nbsp; &nbsp;
+        © <a href='https://www.openstreetmap.org/copyright' target="_blank">OpenStreetMap contributors</a>
+      </div>
+
+    </template>
     <div class="container" layout vertical end-justified fit$="[[viewport.isTabletPlus]]">
       <div class="description-card" layout vertical justified>
         <div>
@@ -77,11 +92,8 @@
         </div>
         <div class="bottom-info" layout horizontal justified center>
           <span class="address">{$ location.address $}</span>
-          <a
-            href="https://www.google.com/maps/dir/?api=1&destination={$ location.address $}"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="https://www.google.com/maps/dir/?api=1&destination={$ location.address $}" target="_blank"
+            rel="noopener noreferrer">
             <paper-icon-button class="directions" icon="hoverboard:directions"></paper-icon-button>
           </a>
         </div>

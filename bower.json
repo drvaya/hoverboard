@@ -29,7 +29,6 @@
     "paper-dialog-behavior": "PolymerElements/paper-dialog-behavior#^2.2.2",
     "iron-overlay-behavior": "PolymerElements/iron-overlay-behavior#^2.3.4",
     "iron-dropdown": "PolymerElements/iron-dropdown#^2.2.1",
-    "good-map": "keanulee/good-map#^0.0.1",
     "paper-menu-button": "PolymerElements/paper-menu-button#^2.1.1",
     "paper-toast": "^2.1.2",
     "paper-progress": "^2.1.1"
