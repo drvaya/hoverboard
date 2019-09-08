@@ -135,278 +135,65 @@
     }
   ],
   "schedule": {
-    "2016-09-09": {
-      "dateReadable": "September 9",
+    "2019-09-21": {
+      "dateReadable": "September 21",
       "timeslots": [
         {
           "endTime": "10:00",
           "sessions": [
             {
               "items": [
-                132
+                100
               ]
             }
           ],
           "startTime": "09:00"
         },
         {
-          "endTime": "10:15",
+          "endTime": "10:30",
           "sessions": [
             {
               "items": [
-                136
+                101
               ]
             }
           ],
           "startTime": "10:00"
         },
         {
-          "endTime": "11:00",
+          "endTime": "11:15",
           "sessions": [
             {
               "items": [
-                139
-              ]
-            }
-          ],
-          "startTime": "10:15"
-        },
-        {
-          "endTime": "11:40",
-          "sessions": [
-            {
-              "items": [
-                103,
-                112
+                102
               ]
             },
-            {
-              "items": [
-                120
-              ]
-            },
-            {
-              "extend": 3,
-              "items": [
-                109
-              ]
-            }
-          ],
-          "startTime": "11:00"
-        },
-        {
-          "endTime": "12:30",
-          "sessions": [
-            {
-              "items": [
-                129
-              ]
-            },
-            {
-              "items": [
-                116
-              ]
-            }
-          ],
-          "startTime": "11:50"
-        },
-        {
-          "endTime": "14:00",
-          "sessions": [
-            {
-              "items": [
-                133
-              ]
-            }
-          ],
-          "startTime": "12:30"
-        },
-        {
-          "endTime": "14:40",
-          "sessions": [
-            {
-              "items": [
-                101
-              ]
-            },
-            {
-              "items": [
-                118
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                107
-              ]
-            }
-          ],
-          "startTime": "14:00"
-        },
-        {
-          "endTime": "15:30",
-          "sessions": [
-            {
-              "items": [
-                140
-              ]
-            },
-            {
-              "items": [
-                126
-              ]
-            }
-          ],
-          "startTime": "14:50"
-        },
-        {
-          "endTime": "16:00",
-          "sessions": [
-            {
-              "items": [
-                134
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:40",
-          "sessions": [
-            {
-              "items": [
-                105
-              ]
-            },
-            {
-              "items": [
-                127
-              ]
-            },
-            {
-              "extend": 3,
-              "items": [
-                119
-              ]
-            }
-          ],
-          "startTime": "16:00"
-        },
-        {
-          "endTime": "17:30",
-          "sessions": [
-            {
-              "items": [
-                112
-              ]
-            },
-            {
-              "items": [
-                111
-              ]
-            }
-          ],
-          "startTime": "16:50"
-        },
-        {
-          "endTime": "18:20",
-          "sessions": [
-            {
-              "items": [
-                106
-              ]
-            },
-            {
-              "items": [
-                125
-              ]
-            }
-          ],
-          "startTime": "17:40"
-        },
-        {
-          "endTime": "22:30",
-          "sessions": [
-            {
-              "items": [
-                137
-              ]
-            }
-          ],
-          "startTime": "18:30"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Expo hall"
-        },
-        {
-          "title": "Conference hall"
-        },
-        {
-          "title": "Workshops hall"
-        }
-      ]
-    },
-    "2016-09-10": {
-      "dateReadable": "September 10",
-      "timeslots": [
-        {
-          "endTime": "10:10",
-          "sessions": [
-            {
-              "items": [
-                135
-              ]
-            }
-          ],
-          "startTime": "09:30"
-        },
-        {
-          "endTime": "10:50",
-          "sessions": [
             {
               "items": [
                 114
               ]
-            },
-            {
-              "items": [
-                117
-              ]
-            },
-            {
-              "items": [
-                121
-              ]
             }
           ],
-          "startTime": "10:10"
+          "startTime": "10:30"
         },
         {
-          "endTime": "11:40",
+          "endTime": "12:00",
           "sessions": [
             {
               "items": [
-                122
+                103
               ]
             },
             {
               "items": [
-                113
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                121
+                115,116
               ]
             }
           ],
-          "startTime": "11:00"
+          "startTime": "11:15"
         },
         {
-          "endTime": "12:30",
+          "endTime": "12:45",
           "sessions": [
             {
               "items": [
@@ -415,47 +202,57 @@
             },
             {
               "items": [
-                124
+                117
               ]
             }
           ],
-          "startTime": "11:50"
+          "startTime": "12:00"
         },
         {
-          "endTime": "14:00",
+          "endTime": "13:30",
           "sessions": [
             {
               "items": [
-                133
-              ]
-            }
-          ],
-          "startTime": "12:30"
-        },
-        {
-          "endTime": "14:40",
-          "sessions": [
-            {
-              "items": [
-                108
+                105
               ]
             },
             {
               "items": [
-                128
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                102
+                118
               ]
             }
           ],
-          "startTime": "14:00"
+          "startTime": "12:45"
         },
         {
-          "endTime": "15:30",
+          "endTime": "14:15",
+          "sessions": [
+            {
+              "items": [
+                106
+              ]
+            }
+          ],
+          "startTime": "13:30"
+        },
+        {
+          "endTime": "15:00",
+          "sessions": [
+            {
+              "items": [
+                107,108,109
+              ]
+            },
+            {
+              "items": [
+                119
+              ]
+            }
+          ],
+          "startTime": "14:15"
+        },
+        {
+          "endTime": "15:45",
           "sessions": [
             {
               "items": [
@@ -464,534 +261,545 @@
             },
             {
               "items": [
-                123
+                120
               ]
             }
           ],
-          "startTime": "14:50"
+          "startTime": "15:00"
         },
         {
-          "endTime": "16:00",
+          "endTime": "16:30",
           "sessions": [
             {
               "items": [
-                134
-              ]
-            }
-          ],
-          "startTime": "15:30"
-        },
-        {
-          "endTime": "16:40",
-          "sessions": [
-            {
-              "items": [
-                131
+                111
               ]
             },
             {
               "items": [
-                140
-              ]
-            },
-            {
-              "extend": 2,
-              "items": [
-                130
+                121
               ]
             }
           ],
-          "startTime": "16:00"
+          "startTime": "15:45"
+        },
+        {
+          "endTime": "17:00",
+          "sessions": [
+            {
+              "items": [
+                112
+              ]
+            }
+          ],
+          "startTime": "16:30"
         },
         {
           "endTime": "17:30",
           "sessions": [
             {
               "items": [
-                115
-              ]
-            },
-            {
-              "items": [
-                140
+                113
               ]
             }
           ],
-          "startTime": "16:50"
+          "startTime": "17:00"
         }
       ],
       "tracks": [
         {
-          "title": "Expo hall"
+          "title": "Co Lab"
         },
         {
-          "title": "Conference hall"
-        },
-        {
-          "title": "Workshops hall"
+          "title": "Spark"
         }
       ]
     }
   },
   "sessions": {
+    "100": {
+      "title": "Registration and Check-In",
+      "description": "",
+      "icon" : "registration",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe"
+    },
     "101": {
-      "complexity": "Beginner",
-      "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": [
-        "mete_atamel",
-        "adrian_kajda"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Windows and .NET on Google Cloud Platform "
+      "title": "Keynote",
+      "description": "The Race to Modernization, by Romin Irani"
     },
     "102": {
-      "complexity": "Beginner",
-      "description": "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language": "English",
+      "title": "Let's Talk Composing UI",
+      "description": "While Developing Apps, following a Reactive Architecture (for example MVI, Mobius, Redux and even MVVM) & Single Source of Truth can get you some big wins including but not limited to, Loose Coupling & Separation of Concerns, Code Testability and easy debugging, unidirectional data, etc. However, unlike Web, where Reactive Architectures are the norm, in Android, we need to opt for Reactive Architecture considering few tradeoffs (time to market, learning curve, etc.), as it’s not natural in Android.\r\n\r\nWhat do I mean by saying Reactive architecture is not natural in Android? Just like web frontends, Android apps revolve around the UI, everything we do in our Android apps has some direct or indirect relation with the UI, and the Android UI framework is imperative itself.\r\nWhile the Android Platform team kept adding more and more types of Views (such as Constraint Layout, RecyclerView or more recent Motion Layout), they didn’t change the nature of UI framework itself since the beginning of android development. This was majorly due to language and tooling limitations (limited by the technologies of that time).\r\n\r\nGoogle announced official support for Kotlin 2 years back, and now major numbers of professional Android Developers worldwide already adopted Kotlin, which made it easier for Google to go Kotlin first in this IO19. Kotlin comes with many perks, some of them are Functional Programming support, compiler plugin capabilities and most importantly huge support on building DSLs at ease.\r\n\r\nWhat relation does Koltin have with Reactive applications? In this IO19, Google announced Jetpack Compose (https://developer.android.com/jetpack/compose/), a new (still-in-development) next generation, Kotlin based, reactive cum declarative UI toolkit, backed by principals like Single Source of Truth, Unidirectional Data Flow, Functional Programming (especially function composition and effects).\r\n\r\nThis new UI toolkit would require a radical shift in our thought process about app architectures UI programming. In this talk, we would see how we can create and interact with UI with Jetpack Compose and how different it is from the present Android framework. We will also look into examples of some code patterns and ideas of from a few famous platforms such as Vue.js, React, Flutters, etc., and how these patterns and are adopted in Jetpack Compose.\r\n",
       "speakers": [
-        "mete_atamel"
+        "f5c5d07c-9ec9-4533-b50f-0b03493041d1"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Cloud"
-      ],
-      "title": "Hands-on gRPC experience building your own multiplayer game client"
+        "App (Mobile and Web)"
+      ]
     },
     "103": {
-      "complexity": "Intermediate",
-      "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
+      "title": "Scaling front-end development and micro front-end architecture",
+      "description": "We'll take a deep dive on the working and challenges faced by distributed and large front-end teams. From writing a feature file, to deploying to production, merge conflicts, and fixing bugs 2 years down the line.\r\n\r\nWe'll talk about the importance of your git workflow, testing lifecycle, and most importantly, about micro front-end architecture and how it has helped us scale our front-end systems at BookMyShow",
       "speakers": [
-        "yonatan_levin"
+        "717aa32e-5734-4328-925b-9c41779a6bdd"
       ],
+      "complexity": "Advanced",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "Knock knock! Who's there? Doze."
+        "App (Mobile and Web)"
+      ]
     },
     "104": {
-      "complexity": "Beginner",
-      "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
+      "title": "Integrating Firestore as a backend in your Flutter app.",
+      "description": "Watch Bhavik Makwana Not from the Flutter team integrate a Cloud Firestore database from Firebase into a Flutter app. ",
       "speakers": [
-        "sascha_wolter"
+        "3e03bfdb-8a29-4a91-942c-f25e8a7b02cb"
       ],
+      "complexity": "Introductory and overview",
+      "language": "English",
       "tags": [
-        "Web"
-      ],
-      "title": "The Physical Web: Context is King!",
-      "videoId": "fLfQNp75kbc"
+        "App (Mobile and Web)"
+      ]
     },
     "105": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
+      "title": "Effective DI for Multi Module Project",
+      "description": "Dividing the module of a Monolithic Android app to realise multi-module application is considered as an important concern in recent Android development. \r\n\r\nThis session distils all the pitfalls and best practices in building a complex app and take a look at the usefulness of multi-module application and how we implemented Dependency Injection in our consumer app at Gojek(superapp.is)\r\n\r\nSome of the highlight points of this session are :\r\n\r\n1. Reintroduction to DI \r\n2. Reintroduction to Dagger-Android \r\n3. DI in single module projects \r\n4. DI hotness in multi-module projects \r\n5. Realise DI in multi-module projects using Dagger2",
       "speakers": [
-        "rustem_arzymbetov"
+        "ed42f118-131f-4ff0-b644-43ba706b82e8"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Cloud"
-      ],
-      "title": "Intro to TensorFlow",
-      "videoId": "e3cuSz1hEPs"
+        "App (Mobile and Web)"
+      ]
     },
     "106": {
-      "complexity": "Beginner",
-      "description": "Fuelio. Success story (I'll write more info later)",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers": [
-        "adrian_kajda"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Fuelio. Success story",
-      "videoId": "qK7ysoohsaM"
+      "title": "Lunch",
+      "description": "Fooooooood!",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+      "icon": "lunch"
     },
     "107": {
-      "complexity": "Beginner",
-      "description": "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-      "extend": 2,
-      "language": "English",
+      "title": "Introspection through coding: Getting to know yourself",
+      "description": "The idea is to discuss the extent to which coding can really tell us about ourselves and how we work. Simply put, understanding basic human psychology using coding or vice versa.",
       "speakers": [
-        "gerard_sans"
+        "d07846ed-4a13-410f-bb3b-f27e4dc2b7e6"
       ],
+      "complexity": "Introductory and overview",
+      "language": "English",
       "tags": [
-        "Web"
-      ],
-      "title": "Introduction to Progressive Web Apps in Angular 2"
+        "App (Mobile and Web)"
+      ]
     },
     "108": {
-      "complexity": "Intermediate",
-      "description": "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
+      "title": "Demystifying React Hooks",
+      "description": "A deeper dive into the world of react hooks and my experience on migrating from a complex class-based react codebase to using react hooks in it.",
       "speakers": [
-        "gerard_sans"
+        "87c04f77-d846-4f23-b0a4-50e9aa3b4ccc"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Web"
-      ],
-      "title": "New Data Architecture in Angular 2",
-      "videoId": "pgmLkwD-mqM"
+        "App (Mobile and Web)"
+      ]
     },
     "109": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
+      "title": "Flutter in existing native apps",
+      "description": "Flutter is a cross-platform framework we added it in our existing native apps (Android and iOS), for this we got featured in Google I/O 2019.\r\nI will share a journey adapting the flutter, how flutter helped us and where we are taking it up.",
       "speakers": [
-        "jozef_vodicka"
+        "d1c45439-a82f-4c7b-a256-36766fb849e7"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Cloud"
-      ],
-      "title": "How much money Firebase can save you"
+        "App (Mobile and Web)"
+      ]
     },
     "110": {
-      "complexity": "Intermediate",
-      "description": "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
+      "title": "Protocol Buffers: Is it worth the switch from JSON?",
+      "description": "Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. Google developed it to make distributed systems communicate better and faster.",
       "speakers": [
-        "mateusz_herych"
+        "f8f39079-cf62-4260-ba90-ca72f59f8e17"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "The ultimate guide to MVP pattern on Android"
+        "App (Mobile and Web)"
+      ]
     },
     "111": {
-      "complexity": "Intermediate",
-      "description": "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
+      "title": "Importance of tech in non-technical product based startups and how to handle it",
+      "description": "In this talk we will look at the role that technology plays in every industry including, especially, non-technical products. And we will also look at what are the best practises and methods to handle and manage the technology being built so that it's prioritized and executed according to plan.\r\n\r\nGenerally for non-technical products such as consumer goods, the main focus lies on sales and marketing. In such industries, technology seems to take a back seat. But that isn't, or rather shouldn't be the case.\r\n\r\nTechnology actually plays a vital role even in such startups. Technology comes in different forms for these startups and helps run all departments (customer support, operations, accounting, management, etc), while also ensuring that the company can scale on demand\r\n\r\nManaging these technologies built/used in house is tough work when the team is growing. Also, such internal solution development can run for indefinite periods of time due to the nature of any technological project. We need to be aware of ways to handle technological projects, which mainly revolves around prioritization, task allocation, measuring efficiency and plan accordingly.\r\n",
       "speakers": [
-        "david_mayboroda"
+        "9e398ef6-0fb5-46db-929f-a0d69b45ed70"
       ],
+      "complexity": "Advanced",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "Building modular architecture apps with Dagger 2"
+        "App (Mobile and Web)"
+      ]
     },
     "112": {
-      "complexity": "Intermediate",
-      "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language": "English",
-      "speakers": [
-        "konrad_dzwinel"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Building web apps in 2016"
+      "title": "Closing Note and Speakers Roundtable",
+      "description": ""
     },
     "113": {
-      "complexity": "Intermediate",
-      "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers": [
-        "jean-baptiste_clion"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Microservices in Google App Engine"
+      "title": "Snacks and Wrap-Up",
+      "description": ""
     },
     "114": {
-      "complexity": "Intermediate",
-      "description": "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "language": "English",
+      "title": "How to handle the \"Training Model\" Hangover",
+      "description": "We are using ML when we need external data to reach a working product because it would be impossible to solve it with the regular for/if/loops. What are the next steps? Moreover, what about Test, Release, and Deployment?\r\n\r\nOur Organizations may be “data-driven”, but now the impact we seize is bigger than we can imagine. No Link Found If you are using an ML component, misused/dirty/problematic data will affect not your internal reports as before… but your application deployment and quality of service.\r\n\r\nLet’s discuss some AI implementations stories (its advantages/problems) finding common mistakes and future challenges for such a hyped theme.",
       "speakers": [
-        12
+        "6adacde6-7ed5-4a0a-a989-79f53f980674"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "I’ve been doing some syncing…"
+        "Cloud and ML"
+      ]
     },
     "115": {
-      "complexity": "Beginner",
-      "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers": [
-        "paul_lammertsma"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android tool-chain and run-time improvements in N",
-      "videoId": "WqULb6bdwwg"
+      "title": "Cloud Developer Advocate Talk",
+      "description": "TBD"
     },
     "116": {
-      "complexity": "Beginner",
-      "description": "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
-      "language": "English",
-      "presentation": "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
-      "speakers": [
-        "aleksander_piotrowski"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "On Polymer and smileys... or Polysmileys"
+      "title": "Cloud Developer Advocate Talk",
+      "description": "TBD"
     },
     "117": {
-      "complexity": "Beginner",
-      "description": "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
+      "title": "Make Your Actions More Powerful",
+      "description": "This talk will cover how to reach more users after creating new action. People have action but they don't know how to make it more powerful so that more and more people will interact with it. I will share few tips to make it more discoverable and reach more people.",
       "speakers": [
-        "carmen_popovicu"
+        "c81beb9d-505e-4850-b28c-153d8349ff69"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Cloud"
-      ],
-      "title": "Building data pipelines: from simple to more advanced - hands-on experience"
+        "Cloud and ML"
+      ]
     },
     "118": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
+      "title": "DL-on-the-Edge",
+      "description": "Accessible and affordable compute power, volume and variety of data, better algorithms and frameworks are the 3 major reasons why Deep Learning as a field has exploded and has become so popular in the last decade. This talk will be primarily focused on the first aspect - compute power and how modern DL based solutions can be deployed on edge devices with minimal compute power. Solutions like NUC (Next Unit of Computing) and NCS2 (Neural Compute Stick - 2) will be discussed and how they can be leveraged to build solutions like auto-navigating robots and assistive devices with accompanying demos. The talk will be concluded with a discussion on principles of community building, collaborating on building open source solutions and how the demos presented were built leveraging the open source community.",
       "speakers": [
-        "sergii_khomenko"
+        "114093a3-a84e-4909-8a13-3b9eaef025b3"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "Kotlin + Android"
+        "Cloud and ML"
+      ]
     },
     "119": {
-      "complexity": "Beginner",
-      "description": "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
+      "title": "Scale your Web Application Securely on Compute Engine",
+      "description": "A session with a demo explaining the multi-tier web app on Compute Engine. Below are the topics which I will cover in the session.\r\n\r\n1 IAAS Market stats and Compute options on GCP\r\n2 Choosing the right to compute service for the workload.\r\n3. Basics of Compute Engine along with spinning one Linux VM. Explaining all the various option/components. Showing the biggest VM available on Compute Engine.\r\n4. Presenting the Multi-Tier Application and explaining the role of each tier.\r\n5. Load Testing and demo of autoscaling and explaining the security parameters which needs to be taken care of.\r\n\r\nOverall this session will the idea of how the real world application is running and the value of GCP platform which is the lower level and most in use by an enterprise application to Startup workload.\r\n",
       "speakers": [
-        "dmytro_danylyk"
+        "09e3eba1-84a6-409a-a6ee-849f10c6b9d3"
       ],
+      "complexity": "Intermediate",
+      "language": "English",
       "tags": [
-        "Android"
-      ],
-      "title": "Hands-on with UI testing for Android developers"
+        "Cloud and ML"
+      ]
     },
     "120": {
-      "complexity": "Beginner",
-      "description": "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "shortDescription": "Progressive web apps are are fundamental shift for the mobile web, learn what they are and how they are made. Click to see more...",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Progressive web apps - prepare your web for 2017"
+      "title": "To Be Announced",
+      "description": ""
     },
     "121": {
-      "complexity": "Intermediate",
-      "description": "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "language": "English",
-      "speakers": [
-        "jana_moudra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Offline-first progressive web apps"
-    },
-    "122": {
-      "complexity": "Intermediate",
-      "description": "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers": [
-        "jakub_škvára"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId": "b9NgjqM6dvk"
-    },
-    "123": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "language": "English",
-      "speakers": [
-        "david_vávra"
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "TBD"
-    },
-    "124": {
-      "complexity": "Intermediate",
-      "description": "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "language": "English",
-      "speakers": [
-        "valentyn_shybanov"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Continues Integration in Android",
-      "videoId": "MmGDQkgknfY"
-    },
-    "125": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "language": "English",
-      "speakers": [
-        "sergiy_mokienko"
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Kubernetes in a real world"
-    },
-    "126": {
-      "complexity": "Intermediate",
-      "description": "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers": [
-        "ihor_dvoretskyi"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId": "We04nyIIsA0"
-    },
-    "127": {
-      "complexity": "Intermediate",
-      "description": "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language": "Ukrainian",
-      "presentation": "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers": [
-        "michael_pustovit"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128": {
-      "complexity": "Beginner",
-      "description": "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language": "English",
-      "speakers": [
-        "anton__minashkin"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Android Wear 2.0: Great Changes Upcoming this Fall"
-    },
-    "129": {
-      "complexity": "Intermediate",
-      "description": "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Accessibility on Android"
-    },
-    "130": {
-      "complexity": "Intermediate",
-      "description": "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language": "English",
-      "speakers": [
-        "constantine_mars"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Designing an Android Wear Application"
-    },
-    "131": {
-      "complexity": "Intermediate",
-      "description": "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers": [
-        "resul_caner__yildirim"
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Deal with it: Android DataBinding explained"
-    },
-    "132": {
-      "description": "Get your badge, coffee, enjoy talking with tech edicts around",
-      "icon": "registration",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title": "Registration & morning Coffee"
-    },
-    "133": {
-      "description": "Foooooooood!",
-      "icon": "lunch",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title": "Lunch"
-    },
-    "134": {
-      "description": "Coffeeeeeee!",
-      "icon": "coffee-break",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title": "Coffee break"
-    },
-    "135": {
-      "description": "Coffeeeeeee!",
-      "icon": "coffee-break",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
-      "title": "Morning coffee"
-    },
-    "136": {
-      "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "icon": "opening",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language": "English",
-      "title": "GDG DevFest Mumbai 2016 Opening"
-    },
-    "137": {
-      "description": "Afterparty is a great time to have some fun and meet new people",
-      "icon": "party",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
-      "title": "Afterparty & Networking"
-    },
-    "138": {
-      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title": "Conference closing and contest winners announcements"
-    },
-    "139": {
-      "description": "",
-      "language": "English",
-      "title": "Keynote"
-    },
-    "140": {
-      "description": "TBD",
-      "language": "English",
-      "title": "TBD"
+      "title": "To Be Announced",
+      "description": ""
     }
   },
-  "speakers": {"ed42f118-131f-4ff0-b644-43ba706b82e8":{"bio":"Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography","title":"Product Engineer at GoJek","id":"ed42f118-131f-4ff0-b644-43ba706b82e8","name":"Adit Lal","photoUrl":"https://sessionize.com/image?f=3b32f5b895502cfc94721839ee496d74,400,400,True,False,18-131f-4ff0-b644-43ba706b82e8.8d1b0d00-5caa-48bb-889d-94e931646e3c.jpg","featured":true,"socials":[{"link":"https://twitter.com/aditlal","name":"Twitter","icon":"twitter"},{"link":"https://linkedin.com/in/aditlal","name":"LinkedIn","icon":"linkedin"}],"order":0},"717aa32e-5734-4328-925b-9c41779a6bdd":{"bio":"Cross functional experience in Product, Design & Engineering teams. Technical skill-set with a consumer mindset :)\r\n\r\nWhen I'm not working on designing features, or debugging production issues, I enjoy carpentry and building my own furniture. ","title":"Front-end Architect - BookMyShow","id":"717aa32e-5734-4328-925b-9c41779a6bdd","name":"Ali Attarwala","photoUrl":"https://sessionize.com/image?f=0f6e033e4d729ac699d2f5536ca0f086,400,400,True,False,ea6d386a-e06c-40a2-9a7c-ddfa17cf8702.jpg","featured":false,"socials":[{"link":"Https://www.twitter.com/alliv8","name":"Twitter","icon":"twitter"}],"order":1},"21ae28a4-720f-4317-b318-37a0cf4afef0":{"bio":"A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it.\r\n\r\nI'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community.\r\n\r\nI am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.","title":"Intel Software Innovator | DataCamp Instructor | Author","id":"21ae28a4-720f-4317-b318-37a0cf4afef0","name":"Anubhav Singh","photoUrl":"https://sessionize.com/image?f=0f23cfd8866f41e621578a6852f0749d,400,400,True,False,a4-720f-4317-b318-37a0cf4afef0.4077d175-8c5e-4c78-b4ad-596c234b3408.jpg","featured":false,"socials":[{"link":"https://twitter.com/xprilion","name":"Twitter","icon":"twitter"},{"link":"https://linkedin.com/in/xprilion","name":"LinkedIn","icon":"linkedin"}],"order":2},"3e03bfdb-8a29-4a91-942c-f25e8a7b02cb":{"bio":"He is a Flutter Enthusiast, Google certified associate android developer and Open-source contributor. He is one of the early Flutter adopter and loves to share knowledge through blog posts, public speaking and open source contributions. He has also started a community in Ahmedabad for Flutter and featured in \"The top 45 must-follow Flutter experts on Twitter\" by codemagic.io.","title":"Software Engineer, Flutter Enthusiast, MCU Fan","id":"3e03bfdb-8a29-4a91-942c-f25e8a7b02cb","name":"Bhavik Makwana","photoUrl":"https://sessionize.com/image?f=7b5628f004a52f0b8a33836535f3247a,400,400,True,False,db-8a29-4a91-942c-f25e8a7b02cb.bda772ee-5a1d-451e-ab70-440e7899e3e4.jpg","featured":false,"socials":[{"link":"https://twitter.com/ibhavikmakwana","name":"Twitter","icon":"twitter"},{"link":"https://in.linkedin.com/in/ibhavikmakwana","name":"LinkedIn","icon":"linkedin"}],"order":3},"09e3eba1-84a6-409a-a6ee-849f10c6b9d3":{"bio":"A hardcore public cloud platform learner and like to share my learning, tweaks with everyone.","title":"Google Cloud Professional","id":"09e3eba1-84a6-409a-a6ee-849f10c6b9d3","name":"Chirag Nayyar","photoUrl":"https://sessionize.com/image?f=08c586fb06ca3bde335b98ebc60d3cab,400,400,True,False,a1-84a6-409a-a6ee-849f10c6b9d3.9c35028b-1e91-4dea-874f-26b13029a983.jpg","featured":false,"socials":[{"link":"https://twitter.com/chiragnayyar","name":"Twitter","icon":"twitter"},{"link":"https://in.linkedin.com/in/chiragnayyar","name":"LinkedIn","icon":"linkedin"}],"order":4},"114093a3-a84e-4909-8a13-3b9eaef025b3":{"bio":"Innovator | Maker | Engineer | Researcher | I teach, preach and leverage ML/DL techniques to build meaningful products.","title":"Software Innovator @ Intel, Dean @ School of AI - Mumbai, ML Engineer @ Aditya Birla Finance Ltd.","id":"114093a3-a84e-4909-8a13-3b9eaef025b3","name":"Indranil Chandra","photoUrl":"https://sessionize.com/image?f=5f7adf94d877901e6972cb0b16d836d0,400,400,True,False,a3-a84e-4909-8a13-3b9eaef025b3.e6b2c1c5-5ec2-4420-a4ac-c3c913b0f040.jpg","featured":false,"socials":[{"link":"https://twitter.com/IndranilChandra","name":"Twitter","icon":"twitter"},{"link":"http://in.linkedin.com/in/indranildchandra","name":"LinkedIn","icon":"linkedin"}],"order":5},"6adacde6-7ed5-4a0a-a989-79f53f980674":{"bio":"A dynamic Data Scientist with expertise in Machine Learning, Pratik is a master of Backend Engineering. With a ton of experience in Python, SQL, he has mastered several Frameworks with Analysis of complex problems and architectures. He is an enthusiastic trainer who loves to explain concepts and answer questions; please shoot whatever's in your head!","title":" A Data Scientist who caught the travel bug. ","id":"6adacde6-7ed5-4a0a-a989-79f53f980674","name":"Pratik Parmar","photoUrl":"https://sessionize.com/image?f=37b054f417d183224056a451f09fbe95,400,400,True,False,e6-7ed5-4a0a-a989-79f53f980674.bf55d10e-731d-4425-8201-2be0488539f9.jpg","featured":false,"socials":[{"link":"http://linkedin.com/in/pratikparmar1/","name":"LinkedIn","icon":"linkedin"},{"link":"http://twitter.com/hackyroot","name":"Twitter","icon":"twitter"}],"order":6},"d1c45439-a82f-4c7b-a256-36766fb849e7":{"bio":"The startup guy, always eager to experiment with new technology. Has 5 years of experience in mobile application development (Android, iOS, and Flutter).","title":"Team lead Mobility @Purplle.com","id":"d1c45439-a82f-4c7b-a256-36766fb849e7","name":"Rahul Devanavar","photoUrl":"https://sessionize.com/image?f=dd0404c6ebc261e200b879dc962bb952,400,400,True,False,39-a82f-4c7b-a256-36766fb849e7.e86e03af-7398-4c60-9e4d-189d9269c134.JPG","featured":false,"socials":[{"link":"https://twitter.com/Rahuldeva91","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/rahuldevanavar/","name":"LinkedIn","icon":"linkedin"}],"order":7},"c81beb9d-505e-4850-b28c-153d8349ff69":{"bio":"He has started working with android back in 2013 and currently working on React Native. He is currently exploring Flutter and Actions on Google. He loves to spend time on learning new things and sharing it with the community. You can always find him over StackOverflow, he holds more than 20K reputation. Apart from just learning new things he is also writing blogs over his personal blog as well as on Medium.","title":"Sr. Software Engineed - Simform Solutions","id":"c81beb9d-505e-4850-b28c-153d8349ff69","name":"Ravi Rupareliya","photoUrl":"https://sessionize.com/image?f=06772eacb5bcce6a4fac8686379d2679,400,400,True,False,62872118-2e37-49a8-9c2f-580772334f19.jpg","featured":false,"socials":[{"link":"https://twitter.com/ravi_rupareliya","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/ravi-rupareliya/","name":"LinkedIn","icon":"linkedin"}],"order":8},"f8f39079-cf62-4260-ba90-ca72f59f8e17":{"bio":"I’m Rishabh, a developer, consultant, tech evangelist & a struggling entrepreneur. I’m the lead developer at OffPay (@getoffpay), where my team & I try to make things happen without the internet! If I seem familiar to you, you must have seen me at Hackathons all around the country. I have interned at 8+ startups since my first year and I remain a technical consultant to 2 startups as of now. My job profile ranges from Backend development to Cloud Engineer to DevOps. I am going to join AGS Transact Technologies at their HQ in Mumbai as a ‘Technical Analyst’ in the Innovations department, this fall.","title":"Upcoming Technical Analyst at AGS Transact Technologies","id":"f8f39079-cf62-4260-ba90-ca72f59f8e17","name":"Rishabh Singh","photoUrl":"https://sessionize.com/image?f=4efda98a3580eabb450c73f03259e183,400,400,True,False,79-cf62-4260-ba90-ca72f59f8e17.a0f9478f-a36c-44da-9244-c0f9e5213562.jpeg","featured":false,"socials":[{"link":"https://twitter.com/pingrishabh","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/pingrishabh","name":"LinkedIn","icon":"linkedin"}],"order":9},"f5c5d07c-9ec9-4533-b50f-0b03493041d1":{"bio":"Rivu Chakraborty is a Google Certified Android Developer, Caster.io instructor, Sr. Tech Member of Institute of Engineers (India). Having total 7+ years of experience he is presently working as a Sr. Software Engineer (Android) at BYJU'S The Learning App. He has authored multiple Kotlin and Android Development books including Reactive Programming in Kotlin, Functional Kotlin, Hands-On Data Structures and Algorithms with Kotlin and Coroutines for Android Developers.\r\n\r\nRivu considers himself a Kotlin and Android enthusiast cum evangelist, with around 4 years of Kotlin experience. Rivu created the KotlinKolkata User Group and before moving out to Bangalore, he had been the lead organizer for both Kotlin Kolkata User Group and GDG Kolkata.\r\n\r\nAlong with organizing events, he also speaks at events/conferences, including DroidJam India 2018 (India's premiere Android Conference), and a lot of meetups and DevFests all over India regularly","title":"Kotlin Evangelist, Author, Speaker, Community Person, Sr. Android Dev.","id":"f5c5d07c-9ec9-4533-b50f-0b03493041d1","name":"Rivu Chakraborty","photoUrl":"https://sessionize.com/image?f=475d4315df3c8424000efc8933be310d,400,400,True,False,7c-9ec9-4533-b50f-0b03493041d1.0bdfa3c1-b3dc-43ac-a823-925657ef776f.jpg","featured":false,"socials":[{"link":"https://twitter.com/rivuchakraborty","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/rivuchk/","name":"LinkedIn","icon":"linkedin"}],"order":10},"9e398ef6-0fb5-46db-929f-a0d69b45ed70":{"bio":"An enthusiastic self starter with strong leadership, problem solving and communication skills. Extremely passionate towards learning new things, and having complete dedication towards work. Loves to tinker with different technologies and also loves to help other in his free time\r\n\r\nWas the robotics society head in college and personally conducted more han 40 workshops, seminars and talks.\r\n\r\nWas the first employee at a innovation focused startup trying to revolutionize the way sports goods are manufactured by adding design, analysis and testing into every stage of the process.","title":"Current technical lead at Elevar Sports","id":"9e398ef6-0fb5-46db-929f-a0d69b45ed70","name":"Rohit Bhaskar","photoUrl":"https://sessionize.com/image?f=4203821c19f2a40d8e020c000dc850df,400,400,True,False,f6-0fb5-46db-929f-a0d69b45ed70.f7949ef7-6347-4bf9-bc66-b743cb69074a.jpg","featured":false,"socials":[{"link":"https://twitter.com/rohitb1v10","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/rohitb1vs10/","name":"LinkedIn","icon":"linkedin"}],"order":11},"87c04f77-d846-4f23-b0a4-50e9aa3b4ccc":{"bio":"Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things. ","title":"Co-Founder, CTO At Voz","id":"87c04f77-d846-4f23-b0a4-50e9aa3b4ccc","name":"Tathagat Thapliyal","photoUrl":"https://sessionize.com/image?f=dce8cd3d9ada417ea02fb400e4c27773,400,400,True,False,77-d846-4f23-b0a4-50e9aa3b4ccc.ab50f22b-d2de-43dc-8241-6109c84255d7.jpg","featured":false,"socials":[{"link":"https://twitter.com/sumoneisback001","name":"Twitter","icon":"twitter"},{"link":"https://www.linkedin.com/in/tathagat-thapliyal/","name":"LinkedIn","icon":"linkedin"}],"order":12},"d07846ed-4a13-410f-bb3b-f27e4dc2b7e6":{"bio":"Brand Strategy Manager who is simultaneously learning various programming languages.    ","title":"Tech Enthusiast","id":"d07846ed-4a13-410f-bb3b-f27e4dc2b7e6","name":"Zeel Mehta","photoUrl":"https://sessionize.com/image?f=c61d66fc547ec9681f19e3b69fe5f813,400,400,True,False,ed-4a13-410f-bb3b-f27e4dc2b7e6.0ebf15cd-5cd2-4e36-bdd4-5815739dab6b.jpeg","featured":false,"socials":[{"link":"https://www.linkedin.com/in/zeel-mehta-550858122/","name":"LinkedIn","icon":"linkedin"}],"order":13}},
+  "speakers": {
+    "ed42f118-131f-4ff0-b644-43ba706b82e8": {
+      "bio": "Adit is a Product Engineer, Android at GoJek. He is been working in the industry for close to 6 years. Some of his hobbies are Stargazing, Travel and Landscape Photography",
+      "title": "Product Engineer at GoJek",
+      "id": "ed42f118-131f-4ff0-b644-43ba706b82e8",
+      "name": "Adit Lal",
+      "photoUrl": "https://sessionize.com/image?f=3b32f5b895502cfc94721839ee496d74,400,400,True,False,18-131f-4ff0-b644-43ba706b82e8.8d1b0d00-5caa-48bb-889d-94e931646e3c.jpg",
+      "featured": true,
+      "socials": [
+        {
+          "link": "https://twitter.com/aditlal",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://linkedin.com/in/aditlal",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 0
+    },
+    "717aa32e-5734-4328-925b-9c41779a6bdd": {
+      "bio": "Cross functional experience in Product, Design & Engineering teams. Technical skill-set with a consumer mindset :)\r\n\r\nWhen I'm not working on designing features, or debugging production issues, I enjoy carpentry and building my own furniture. ",
+      "title": "Front-end Architect - BookMyShow",
+      "id": "717aa32e-5734-4328-925b-9c41779a6bdd",
+      "name": "Ali Attarwala",
+      "photoUrl": "https://sessionize.com/image?f=0f6e033e4d729ac699d2f5536ca0f086,400,400,True,False,ea6d386a-e06c-40a2-9a7c-ddfa17cf8702.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "Https://www.twitter.com/alliv8",
+          "name": "Twitter",
+          "icon": "twitter"
+        }
+      ],
+      "order": 1
+    },
+    "21ae28a4-720f-4317-b318-37a0cf4afef0": {
+      "bio": "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it.\r\n\r\nI'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community.\r\n\r\nI am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
+      "title": "Intel Software Innovator | DataCamp Instructor | Author",
+      "id": "21ae28a4-720f-4317-b318-37a0cf4afef0",
+      "name": "Anubhav Singh",
+      "photoUrl": "https://sessionize.com/image?f=0f23cfd8866f41e621578a6852f0749d,400,400,True,False,a4-720f-4317-b318-37a0cf4afef0.4077d175-8c5e-4c78-b4ad-596c234b3408.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/xprilion",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://linkedin.com/in/xprilion",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 2
+    },
+    "3e03bfdb-8a29-4a91-942c-f25e8a7b02cb": {
+      "bio": "He is a Flutter Enthusiast, Google certified associate android developer and Open-source contributor. He is one of the early Flutter adopter and loves to share knowledge through blog posts, public speaking and open source contributions. He has also started a community in Ahmedabad for Flutter and featured in \"The top 45 must-follow Flutter experts on Twitter\" by codemagic.io.",
+      "title": "Software Engineer, Flutter Enthusiast, MCU Fan",
+      "id": "3e03bfdb-8a29-4a91-942c-f25e8a7b02cb",
+      "name": "Bhavik Makwana",
+      "photoUrl": "https://sessionize.com/image?f=7b5628f004a52f0b8a33836535f3247a,400,400,True,False,db-8a29-4a91-942c-f25e8a7b02cb.bda772ee-5a1d-451e-ab70-440e7899e3e4.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/ibhavikmakwana",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://in.linkedin.com/in/ibhavikmakwana",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 3
+    },
+    "09e3eba1-84a6-409a-a6ee-849f10c6b9d3": {
+      "bio": "A hardcore public cloud platform learner and like to share my learning, tweaks with everyone.",
+      "title": "Google Cloud Professional",
+      "id": "09e3eba1-84a6-409a-a6ee-849f10c6b9d3",
+      "name": "Chirag Nayyar",
+      "photoUrl": "https://sessionize.com/image?f=08c586fb06ca3bde335b98ebc60d3cab,400,400,True,False,a1-84a6-409a-a6ee-849f10c6b9d3.9c35028b-1e91-4dea-874f-26b13029a983.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/chiragnayyar",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://in.linkedin.com/in/chiragnayyar",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 4
+    },
+    "114093a3-a84e-4909-8a13-3b9eaef025b3": {
+      "bio": "Innovator | Maker | Engineer | Researcher | I teach, preach and leverage ML/DL techniques to build meaningful products.",
+      "title": "Software Innovator @ Intel, Dean @ School of AI - Mumbai, ML Engineer @ Aditya Birla Finance Ltd.",
+      "id": "114093a3-a84e-4909-8a13-3b9eaef025b3",
+      "name": "Indranil Chandra",
+      "photoUrl": "https://sessionize.com/image?f=5f7adf94d877901e6972cb0b16d836d0,400,400,True,False,a3-a84e-4909-8a13-3b9eaef025b3.e6b2c1c5-5ec2-4420-a4ac-c3c913b0f040.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/IndranilChandra",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "http://in.linkedin.com/in/indranildchandra",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 5
+    },
+    "6adacde6-7ed5-4a0a-a989-79f53f980674": {
+      "bio": "A dynamic Data Scientist with expertise in Machine Learning, Pratik is a master of Backend Engineering. With a ton of experience in Python, SQL, he has mastered several Frameworks with Analysis of complex problems and architectures. He is an enthusiastic trainer who loves to explain concepts and answer questions; please shoot whatever's in your head!",
+      "title": " A Data Scientist who caught the travel bug. ",
+      "id": "6adacde6-7ed5-4a0a-a989-79f53f980674",
+      "name": "Pratik Parmar",
+      "photoUrl": "https://sessionize.com/image?f=37b054f417d183224056a451f09fbe95,400,400,True,False,e6-7ed5-4a0a-a989-79f53f980674.bf55d10e-731d-4425-8201-2be0488539f9.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "http://linkedin.com/in/pratikparmar1/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        },
+        {
+          "link": "http://twitter.com/hackyroot",
+          "name": "Twitter",
+          "icon": "twitter"
+        }
+      ],
+      "order": 6
+    },
+    "d1c45439-a82f-4c7b-a256-36766fb849e7": {
+      "bio": "The startup guy, always eager to experiment with new technology. Has 5 years of experience in mobile application development (Android, iOS, and Flutter).",
+      "title": "Team lead Mobility @Purplle.com",
+      "id": "d1c45439-a82f-4c7b-a256-36766fb849e7",
+      "name": "Rahul Devanavar",
+      "photoUrl": "https://sessionize.com/image?f=dd0404c6ebc261e200b879dc962bb952,400,400,True,False,39-a82f-4c7b-a256-36766fb849e7.e86e03af-7398-4c60-9e4d-189d9269c134.JPG",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/Rahuldeva91",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/rahuldevanavar/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 7
+    },
+    "c81beb9d-505e-4850-b28c-153d8349ff69": {
+      "bio": "He has started working with android back in 2013 and currently working on React Native. He is currently exploring Flutter and Actions on Google. He loves to spend time on learning new things and sharing it with the community. You can always find him over StackOverflow, he holds more than 20K reputation. Apart from just learning new things he is also writing blogs over his personal blog as well as on Medium.",
+      "title": "Sr. Software Engineed - Simform Solutions",
+      "id": "c81beb9d-505e-4850-b28c-153d8349ff69",
+      "name": "Ravi Rupareliya",
+      "photoUrl": "https://sessionize.com/image?f=06772eacb5bcce6a4fac8686379d2679,400,400,True,False,62872118-2e37-49a8-9c2f-580772334f19.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/ravi_rupareliya",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/ravi-rupareliya/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 8
+    },
+    "f8f39079-cf62-4260-ba90-ca72f59f8e17": {
+      "bio": "I’m Rishabh, a developer, consultant, tech evangelist & a struggling entrepreneur. I’m the lead developer at OffPay (@getoffpay), where my team & I try to make things happen without the internet! If I seem familiar to you, you must have seen me at Hackathons all around the country. I have interned at 8+ startups since my first year and I remain a technical consultant to 2 startups as of now. My job profile ranges from Backend development to Cloud Engineer to DevOps. I am going to join AGS Transact Technologies at their HQ in Mumbai as a ‘Technical Analyst’ in the Innovations department, this fall.",
+      "title": "Upcoming Technical Analyst at AGS Transact Technologies",
+      "id": "f8f39079-cf62-4260-ba90-ca72f59f8e17",
+      "name": "Rishabh Singh",
+      "photoUrl": "https://sessionize.com/image?f=4efda98a3580eabb450c73f03259e183,400,400,True,False,79-cf62-4260-ba90-ca72f59f8e17.a0f9478f-a36c-44da-9244-c0f9e5213562.jpeg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/pingrishabh",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/pingrishabh",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 9
+    },
+    "f5c5d07c-9ec9-4533-b50f-0b03493041d1": {
+      "bio": "Rivu Chakraborty is a Google Certified Android Developer, Caster.io instructor, Sr. Tech Member of Institute of Engineers (India). Having total 7+ years of experience he is presently working as a Sr. Software Engineer (Android) at BYJU'S The Learning App. He has authored multiple Kotlin and Android Development books including Reactive Programming in Kotlin, Functional Kotlin, Hands-On Data Structures and Algorithms with Kotlin and Coroutines for Android Developers.\r\n\r\nRivu considers himself a Kotlin and Android enthusiast cum evangelist, with around 4 years of Kotlin experience. Rivu created the KotlinKolkata User Group and before moving out to Bangalore, he had been the lead organizer for both Kotlin Kolkata User Group and GDG Kolkata.\r\n\r\nAlong with organizing events, he also speaks at events/conferences, including DroidJam India 2018 (India's premiere Android Conference), and a lot of meetups and DevFests all over India regularly",
+      "title": "Kotlin Evangelist, Author, Speaker, Community Person, Sr. Android Dev.",
+      "id": "f5c5d07c-9ec9-4533-b50f-0b03493041d1",
+      "name": "Rivu Chakraborty",
+      "photoUrl": "https://sessionize.com/image?f=475d4315df3c8424000efc8933be310d,400,400,True,False,7c-9ec9-4533-b50f-0b03493041d1.0bdfa3c1-b3dc-43ac-a823-925657ef776f.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/rivuchakraborty",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/rivuchk/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 10
+    },
+    "9e398ef6-0fb5-46db-929f-a0d69b45ed70": {
+      "bio": "An enthusiastic self starter with strong leadership, problem solving and communication skills. Extremely passionate towards learning new things, and having complete dedication towards work. Loves to tinker with different technologies and also loves to help other in his free time\r\n\r\nWas the robotics society head in college and personally conducted more han 40 workshops, seminars and talks.\r\n\r\nWas the first employee at a innovation focused startup trying to revolutionize the way sports goods are manufactured by adding design, analysis and testing into every stage of the process.",
+      "title": "Current technical lead at Elevar Sports",
+      "id": "9e398ef6-0fb5-46db-929f-a0d69b45ed70",
+      "name": "Rohit Bhaskar",
+      "photoUrl": "https://sessionize.com/image?f=4203821c19f2a40d8e020c000dc850df,400,400,True,False,f6-0fb5-46db-929f-a0d69b45ed70.f7949ef7-6347-4bf9-bc66-b743cb69074a.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/rohitb1v10",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/rohitb1vs10/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 11
+    },
+    "87c04f77-d846-4f23-b0a4-50e9aa3b4ccc": {
+      "bio": "Developer, Maker, and Innovator. A Full Stack ReactJS, React-Native, NodeJS developer. Always Passionate about building things. ",
+      "title": "Co-Founder, CTO At Voz",
+      "id": "87c04f77-d846-4f23-b0a4-50e9aa3b4ccc",
+      "name": "Tathagat Thapliyal",
+      "photoUrl": "https://sessionize.com/image?f=dce8cd3d9ada417ea02fb400e4c27773,400,400,True,False,77-d846-4f23-b0a4-50e9aa3b4ccc.ab50f22b-d2de-43dc-8241-6109c84255d7.jpg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://twitter.com/sumoneisback001",
+          "name": "Twitter",
+          "icon": "twitter"
+        },
+        {
+          "link": "https://www.linkedin.com/in/tathagat-thapliyal/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 12
+    },
+    "d07846ed-4a13-410f-bb3b-f27e4dc2b7e6": {
+      "bio": "Brand Strategy Manager who is simultaneously learning various programming languages.    ",
+      "title": "Tech Enthusiast",
+      "id": "d07846ed-4a13-410f-bb3b-f27e4dc2b7e6",
+      "name": "Zeel Mehta",
+      "photoUrl": "https://sessionize.com/image?f=c61d66fc547ec9681f19e3b69fe5f813,400,400,True,False,ed-4a13-410f-bb3b-f27e4dc2b7e6.0ebf15cd-5cd2-4e36-bdd4-5815739dab6b.jpeg",
+      "featured": false,
+      "socials": [
+        {
+          "link": "https://www.linkedin.com/in/zeel-mehta-550858122/",
+          "name": "LinkedIn",
+          "icon": "linkedin"
+        }
+      ],
+      "order": 13
+    }
+  },
   "team": [
     {
       "members": [

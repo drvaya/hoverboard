@@ -18,7 +18,8 @@
     "lint": "gulp lint",
     "pretest": "npm run lint",
     "test": "echo \"No tests\"",
-    "parse:previous":"babel-node ./internals/parse-previous-speakers.js"
+    "parse:previous":"babel-node ./internals/parse-previous-speakers.js",
+    "parse:sessions":"babel-node ./internals/parse-sessions.js"
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.3.3",

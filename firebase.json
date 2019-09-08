@@ -53,5 +53,10 @@
       "npm run predeploy",
       "npm --prefix ./functions run build"
     ]
+  },
+  "emulators": {
+    "functions": {
+      "port": "8100"
+    }
   }
 }
