@@ -71,81 +71,63 @@
       "logos": [
         {
           "order": 0,
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164"
-        }
-      ],
-      "order": 0,
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
-          "order": 0,
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com.ua/intl/en/about/"
         },
         {
           "order": 1,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/agrahyah-logo.jpg",
+          "name": "Agrahyah Technologies",
+          "url": "https://www.agrahyah.com/ "
         },
         {
           "order": 2,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/byjus-logo.png",
+          "name": "Byjus",
+          "url": "https://byjus.com/"
         },
         {
           "order": 3,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/clevertap-logo.svg",
+          "name": "CleverTap",
+          "url": "https://clevertap.com/"
         },
         {
           "order": 4,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/github-logo.png",
+          "name": "GitHub",
+          "url": "https://www.github.com"
         },
         {
           "order": 5,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/makers-logo.png",
+          "name": "Maker's Asylum",
+          "url": "https://www.makersasylum.com/"
         },
         {
           "order": 6,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/media-logo.png",
+          "name": "Media Agility",
+          "url": "https://www.mediaagility.com/"
         },
         {
           "order": 7,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
+          "logoUrl": "../images/logos/pepperfry-logo.svg",
+          "name": "Pepperfry",
+          "url": "https://www.pepperfry.com/"
         },
         {
           "order": 8,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/quantiphi-logo.png",
+          "name": "Quantiphi Analytics Solution Private Limited",
+          "url": "https://www.quantiphi.com/"
         },
         {
           "order": 9,
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        },
-        {
-          "order": 10,
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "logoUrl": "../images/logos/searce-logo.png",
+          "name": "Searce Inc.",
+          "url": "https://www.searce.com/"
         }
       ],
       "order": 1,
