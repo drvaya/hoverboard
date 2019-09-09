@@ -325,7 +325,10 @@
     },
     "101": {
       "title": "Keynote",
-      "description": "The Race to Modernization, by Romin Irani"
+      "description": "Leveling Up as a Developer",
+      "speakers": [
+        "74f6baa1-82c8-45f3-ac81-95065791fd7c"
+      ]
     },
     "102": {
       "title": "Let's Talk Composing UI",
@@ -726,7 +729,7 @@
       "id": "f5c5d07c-9ec9-4533-b50f-0b03493041d1",
       "name": "Rivu Chakraborty",
       "photoUrl": "https://sessionize.com/image?f=475d4315df3c8424000efc8933be310d,400,400,True,False,7c-9ec9-4533-b50f-0b03493041d1.0bdfa3c1-b3dc-43ac-a823-925657ef776f.jpg",
-      "featured": false,
+      "featured": true,
       "socials": [
         {
           "link": "https://twitter.com/rivuchakraborty",
@@ -798,6 +801,22 @@
         }
       ],
       "order": 13
+    },
+    "74f6baa1-82c8-45f3-ac81-95065791fd7c": {
+      "bio": "My passion is to help developers succeed. ¯\\_(ツ)_/¯\r\n\r\n",
+      "title": "Partner Engineer at Google",
+      "id": "74f6baa1-82c8-45f3-ac81-95065791fd7c",
+      "name": "Romin Irani",
+      "photoUrl": "https://sessionize.com/image?f=efcfb142d8499cdbd16cb15b0e9ec363,400,400,True,False,5d-da47-4dee-9428-1ef0efb15c1f.2ed7d6ae-42de-4620-830c-84bf178876f5.jpg",
+      "featured": true,
+      "socials": [
+        {
+          "link": "https://twitter.com/iRomin",
+          "name": "Twitter",
+          "icon": "twitter"
+        }
+      ],
+      "order": 14
     }
   },
   "team": [
@@ -1450,7 +1469,7 @@
       "bio": "Can write a java code and automate test cases 1.automation test analyst 2.jenkins fan",
       "company": "First rand services pvt ltd",
       "id": "swapneel_vhatkar",
-      "name": "swapneel vhatkar",
+      "name": "Swapneel Vhatkar",
       "photoUrl": "https://sessionize.com/image?f=45f62fadc00908ad508f51c375716f2f,400,400,True,False,baddcc0c-8d0c-4880-b0ae-238501442589.jpg",
       "socials": []
     },
@@ -1458,7 +1477,7 @@
       "bio": "\"Techie By Mind, Entrepreneur By Heart\"!!\r\n\r\nIT Professional having 6 years of experience in software development & Project Execution.\r\n\r\nHaving Experience in multiple cloud platforms like Amazon Web Services, Google Cloud Platform. Alexa(Amazon Echo) Evangelist.\r\n\r\nLoves writing, Music, Travel, Adventure. Can't breathe without Reading ;)\r\n",
       "company": "Unboxing The Cloud",
       "id": "swapnil_pawar",
-      "name": "swapnil pawar",
+      "name": "Swapnil Pawar",
       "photoUrl": "https://sessionize.com/image?f=d860bb6b291226cdd17a12f11edceac5,400,400,True,False,f4-6326-4376-bde3-644075e85763.331ec34a-7e59-4fd7-bd63-479803530a83.png",
       "socials": []
     },
