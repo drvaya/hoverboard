@@ -275,7 +275,7 @@ const speakersActions = {
     const speakersPromise = new Promise((resolve, reject) => {
       firebase.firestore()
         .collection('generatedSpeakers')
-        .orderBy('order', 'asc')
+        .orderBy('name', 'asc')
         .get()
         .then((snaps) => {
           resolve(snaps.docs.map((snap) => Object.assign({}, snap.data())));
@@ -498,7 +498,7 @@ const galleryActions = {
 };
 
 const _getTeamMembers = (teamId) => firebase.firestore()
-  .collection('team').doc(teamId).collection('members').orderBy('order', 'asc')
+  .collection('team').doc(teamId).collection('members').orderBy('name', 'asc')
   .get()
   .then((snaps) => snaps.docs
     .map((snap) => Object.assign({}, snap.data(), { id: snap.id }))
