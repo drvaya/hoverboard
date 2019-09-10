@@ -555,27 +555,6 @@
       ],
       "order": 1
     },
-    "21ae28a4-720f-4317-b318-37a0cf4afef0": {
-      "bio": "A Web Developer since before Bootstrap was born, I began my journey in the field of computer science in my 8th grade with my first two projects being - a search engine and a social network right from scratch using LAMP stack. Currently an active Machine Learning explorer, I've used Python for all reasons and seasons over the last 4 years including Data Science to ACM ICPC Regional Finals for 2 consecutive years, where I fell prey to a precision loss in Python - and hence the will to master it.\r\n\r\nI'm an active speaker at Google Developers Group Kolkata talking often about machine learning and cloud computing, including the GDG DevFest Kolkata 2018. I'm also a speaker for the Elastic Search Kolkata Community and Neo4j Community.\r\n\r\nI am among the youngest instructors at DataCamp, which is a global platform for learning DataScience. I'm also currently authoring 2 books on Deep Learning using Python expected to be published in late 2019 by Packt Publications. I have been recognized as an Intel Software Innovator.",
-      "title": "Intel Software Innovator | DataCamp Instructor | Author",
-      "id": "21ae28a4-720f-4317-b318-37a0cf4afef0",
-      "name": "Anubhav Singh",
-      "photoUrl": "https://sessionize.com/image?f=0f23cfd8866f41e621578a6852f0749d,400,400,True,False,a4-720f-4317-b318-37a0cf4afef0.4077d175-8c5e-4c78-b4ad-596c234b3408.jpg",
-      "featured": false,
-      "socials": [
-        {
-          "link": "https://twitter.com/xprilion",
-          "name": "Twitter",
-          "icon": "twitter"
-        },
-        {
-          "link": "https://linkedin.com/in/xprilion",
-          "name": "LinkedIn",
-          "icon": "linkedin"
-        }
-      ],
-      "order": 2
-    },
     "3e03bfdb-8a29-4a91-942c-f25e8a7b02cb": {
       "bio": "He is a Flutter Enthusiast, Google certified associate android developer and Open-source contributor. He is one of the early Flutter adopter and loves to share knowledge through blog posts, public speaking and open source contributions. He has also started a community in Ahmedabad for Flutter and featured in \"The top 45 must-follow Flutter experts on Twitter\" by codemagic.io.",
       "title": "Software Engineer, Flutter Enthusiast, MCU Fan",
@@ -683,7 +662,7 @@
     },
     "c81beb9d-505e-4850-b28c-153d8349ff69": {
       "bio": "He has started working with android back in 2013 and currently working on React Native. He is currently exploring Flutter and Actions on Google. He loves to spend time on learning new things and sharing it with the community. You can always find him over StackOverflow, he holds more than 20K reputation. Apart from just learning new things he is also writing blogs over his personal blog as well as on Medium.",
-      "title": "Sr. Software Engineed - Simform Solutions",
+      "title": "Sr. Software Engineer - Simform Solutions",
       "id": "c81beb9d-505e-4850-b28c-153d8349ff69",
       "name": "Ravi Rupareliya",
       "photoUrl": "https://sessionize.com/image?f=06772eacb5bcce6a4fac8686379d2679,400,400,True,False,62872118-2e37-49a8-9c2f-580772334f19.jpg",
