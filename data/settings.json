@@ -43,7 +43,7 @@
     "home": {
       "description": "Be a hero. Be a GDG!",
       "background": {
-        "color": "#673ab7",
+        "color": "#14202E",
         "image": "/images/backgrounds/background.jpg"
       },
       "fontColor": "#FFF"
