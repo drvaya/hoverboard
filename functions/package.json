@@ -6,13 +6,15 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "babel src --out-dir dist --source-maps",
-    "postbuild": "cpx ../build/index.html dist/"
+    "postbuild": "cpx ../build/index.html dist/",
+    "serve": "npm run build && firebase serve --only functions"
   },
   "engines": {
     "node": "10"
   },
   "dependencies": {
     "@google-cloud/storage": "^1.7.0",
+    "actions-on-google": "^2.12.0",
     "child-process-promise": "^2.2.1",
     "cpx": "^1.5.0",
     "express": "^4.17.1",
@@ -21,7 +23,8 @@
     "md5": "^2.2.1",
     "mkdirp-promise": "^5.0.1",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
