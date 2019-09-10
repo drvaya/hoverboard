@@ -311,7 +311,7 @@ const previousSpeakersActions = {
 
     firebase.firestore()
       .collection('previousSpeakers')
-      .orderBy('order', 'asc')
+      .orderBy('name', 'asc')
       .get()
       .then((snaps) => {
         const list = snaps.docs
