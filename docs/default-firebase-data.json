@@ -118,12 +118,6 @@
           "url": "https://www.pepperfry.com/"
         },
         {
-          "order": 8,
-          "logoUrl": "../images/logos/quantiphi-logo.png",
-          "name": "Quantiphi Analytics Solution Private Limited",
-          "url": "https://www.quantiphi.com/"
-        },
-        {
           "order": 9,
           "logoUrl": "../images/logos/searce-logo.png",
           "name": "Searce Inc.",
@@ -1474,5 +1468,11 @@
         }
       ]
     }
+  },
+  "venue": {
+    "address": "One India Bulls Centre, Tower 2A 6th Floor, Saidham Nagar, Parel, Mumbai, Maharashtra 400013, India",
+    "lat": "19.007015",
+    "lng": "72.833329",
+    "link": "https://goo.gl/maps/imXtN215HJPF4FH96"
   }
 }

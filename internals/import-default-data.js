@@ -264,6 +264,27 @@ const importSchedule = () => {
     });
 };
 
+const importVenue = () => {
+  const docs = data.venue;
+  if (!Object.keys(docs).length) {
+    return false;
+  }
+  console.log('\tImporting venue...');
+
+  const batch = firestore.batch();
+
+  batch.set(
+    firestore.collection('venue').doc('000'),
+    {...docs},
+  );
+
+  return batch.commit()
+    .then(results => {
+      console.log('\tImported data for', Object.keys(docs).length, 'values');
+      return results;
+    });
+};
+
 const importNotificationsConfig = async () => {
   const notificationsConfig = data.notifications.config;
   console.log('Migrating notifications config...');
@@ -294,6 +315,7 @@ initializeFirebase()
   .then(() => importTeam())
   .then(() => importTickets())
   .then(() => importVideos())
+  .then(() => importVenue())
 
   .then(() => {
     console.log('Finished');
