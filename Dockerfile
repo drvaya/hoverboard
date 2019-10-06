@@ -6,7 +6,7 @@ RUN chown -R node:node /app
 USER node
 WORKDIR /app
 
-ENV PORT 8080
+ENV PORT 3001
 ENV HOST 0.0.0.0
 
 EXPOSE 3000 3001
